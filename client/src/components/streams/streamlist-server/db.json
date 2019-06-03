@@ -1,0 +1,16 @@
+{
+  "streams": [
+    {
+      "title": "GoT LiveStream",
+      "description": "Watch the final episode of GoT, EVER! Live from HBO!",
+      "userId": "100018151135321534873",
+      "id": 1
+    },
+    {
+      "title": "pewdiepie live subcount",
+      "description": "Watch pewdiepie reach 100mil first here!!",
+      "userId": "100018151135321534873",
+      "id": 2
+    }
+  ]
+}
